@@ -1,16 +1,17 @@
-# Taboada
+# Primeiro Projeto Python
 
-Solicita ao usuário um número positivo e exibe a taboada desse número até 10. Encerra o programa caso o número seja negativo.
+Este projeto contém uma série de scripts em Python que abordam conceitos básicos da linguagem:
 
-# Cadastro de Pessoas
+- Entrada de dados
+- Operações matemáticas
+- Estruturas de controle
+- Manipulação de datas
 
-Define a classe Pessoa com atributos nome, idade e sexualidade. Cadastra até 8 pessoas, armazenando-as em uma lista.
+Cada seção do código é acompanhada de uma breve explicação e a execução dos exemplos fornecidos.
 
-Conta e exibe:
-- O número de homens e mulheres cadastrados.
-- O número de pessoas maiores de idade cadastradas.
-- O número de mulheres maiores de idade cadastradas.
+### Observação
 
+O Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado no projeto, e no qual a lista de comandos se baseia, é o MySQL Workbench.
 
 ### Contribuição
 
