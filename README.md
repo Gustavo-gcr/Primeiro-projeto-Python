@@ -9,10 +9,6 @@ Este projeto contém uma série de scripts em Python que abordam conceitos bási
 
 Cada seção do código é acompanhada de uma breve explicação e a execução dos exemplos fornecidos.
 
-### Observação
-
-O Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado no projeto, e no qual a lista de comandos se baseia, é o MySQL Workbench.
-
 ### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests relacionados a este projeto.
